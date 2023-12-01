@@ -1,3 +1,7 @@
+리액트 기초부터 다시 시작하기
+개인 홈페이지 만드는 것부터 시작!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
